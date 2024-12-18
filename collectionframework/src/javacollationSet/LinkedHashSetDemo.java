@@ -2,7 +2,7 @@ package javacollationSet;
 
 import java.util.Iterator;
 import java.util.LinkedHashSet;
-
+// Linkedhash set 
 public class LinkedHashSetDemo {
 
 	public static void main(String[] args) {
